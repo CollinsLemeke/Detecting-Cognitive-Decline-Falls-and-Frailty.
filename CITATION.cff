@@ -5,8 +5,10 @@ message: >-
   original GSTRIDE dataset authors.
 type: software
 authors:
-  - name: "Psychointelligence Project"
-repository-code: "https://github.com/USERNAME/REPO"
+  - family-names: "Lemeke"
+    given-names: "Collins"
+    alias: "CollinsLemeke"
+repository-code: "https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty."
 abstract: >-
   An interpretable machine learning analysis of the GSTRIDE dataset showing
   that signs of cognitive decline in older adults can be detected from gait
