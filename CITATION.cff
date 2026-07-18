@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Psychointelligence: Detecting Cognitive Decline from Gait in Older Adults"
+message: >-
+  If you use this analysis, please cite it as below, and also cite the
+  original GSTRIDE dataset authors.
+type: software
+authors:
+  - name: "Psychointelligence Project"
+repository-code: "https://github.com/USERNAME/REPO"
+abstract: >-
+  An interpretable machine learning analysis of the GSTRIDE dataset showing
+  that signs of cognitive decline in older adults can be detected from gait
+  and mobility measurements alone, and that this cognitive signal is
+  separable from physical frailty. Logistic regression on six features
+  reaches ROC-AUC 0.752 with 72% recall for cognitive decline.
+keywords:
+  - gait analysis
+  - cognitive decline
+  - dementia screening
+  - interpretable machine learning
+  - wearable sensors
+license: MIT
+date-released: "2026-07-18"
