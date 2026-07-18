@@ -17,8 +17,8 @@ Using six simple measurements from 163 older adults, a plain logistic regression
 The dataset is included, so this should work in one go.
 
 ```bash
-git clone https://github.com/[USERNAME/REPO.git](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty.)
-cd REPO
+git clone https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty..git
+cd Detecting-Cognitive-Decline-Falls-and-Frailty
 pip install -r requirements.txt
 python src/reproduce.py
 ```
